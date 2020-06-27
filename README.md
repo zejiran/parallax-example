@@ -1,2 +1,2 @@
-# ParallaxExample
-This is a Parallax example
+# Parallax example
+This is a parallax effect example.
